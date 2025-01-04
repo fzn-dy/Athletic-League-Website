@@ -1,12 +1,28 @@
-### About the project
+<h1 align="center">Athletic League Website</h1>
+<p align="center"><img src="src/assets/img/logo.png" width="100px" height="100px"></p>
+<p align="center"><img src="https://img.shields.io/badge/Build%20with-Node.js-61dbfb?style=popout&logo=node.js"></p>
+<p align="center"><img src="https://img.shields.io/badge/Build%20with-React%20JS-61dbfb?style=popout&logo=react"></p>
 
-![home](https://user-images.githubusercontent.com/119150796/206412108-d81c9ff2-9f29-4a93-8e79-d6cfe1420970.png)
-![trainers](https://user-images.githubusercontent.com/119150796/206412124-7988de7a-5f42-48ed-b546-014717b990c9.png)
-![match teams](https://user-images.githubusercontent.com/119150796/206412114-6e3c8a6d-1999-442b-9b07-90dc219e36c7.png)
-![sprot vanue](https://user-images.githubusercontent.com/119150796/206412116-cd1a24ea-0ec9-4f46-8256-ec197365c5fa.png)
-![Food Calories](https://user-images.githubusercontent.com/119150796/206412127-307527ea-1605-413d-b4cb-10c60f79fa29.png)
+## Contents
 
-### Built With
+- [Description](#description)
+- [Features](#features)
+- [Built With](#built-with)
+- [Installation](#installation)
+- [Preview](#preview)
+- [Credits](#credits)
+
+## Description
+This website, Athletic League, is designed to help individuals find time and access to exercise, offering solutions for people with busy schedules.
+
+## Features
+- Plan workout locations.
+- Find training partners (individual or team).
+- Connect with professional coaches or trainers.
+- Collaborate with sports facility providers.
+- Access health and nutrition information.
+
+## Built With
 
 #### Client
 * [Node.js](https://nodejs.org/en/)
@@ -14,20 +30,15 @@
 * HTML 5
 * [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-### Server
+#### Server
 * [Express Js](https://expressjs.com/)
 * [Sequelize](https://sequelize.org/)
 * [Nodemon](https://www.npmjs.com/package/nodemon)
 
-Database
-* [MySql](https://www.mysql.com/)
+#### Database
+* [MySQL](https://www.mysql.com/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-<!-- GETTING STARTED -->
-## Getting Started
-
-
-### Installation
+## Installation
 1. Clone repositorinya
    ```sh
    git clone https://github.com/qonitalutfia/Capstone-Project.git
@@ -54,7 +65,7 @@ Database
 
 
 #### Server (Opsional)
-Notes : Jika sudah berhasil menginstall front-end, sebenarnya tidak perlu menjalankan back-end. Hal ini dikarenakan bagian back-end sudah di-deploy secara live.
+Note: If the front-end is successfully installed, running the back-end is optional as it is already deployed live.
 
 ##### Prerequisites
 
@@ -74,3 +85,14 @@ Notes : Jika sudah berhasil menginstall front-end, sebenarnya tidak perlu menjal
    ```sh
    npm start
    ```
+## Preview
+
+![home](https://user-images.githubusercontent.com/119150796/206412108-d81c9ff2-9f29-4a93-8e79-d6cfe1420970.png)
+![trainers](https://user-images.githubusercontent.com/119150796/206412124-7988de7a-5f42-48ed-b546-014717b990c9.png)
+![match teams](https://user-images.githubusercontent.com/119150796/206412114-6e3c8a6d-1999-442b-9b07-90dc219e36c7.png)
+![sprot vanue](https://user-images.githubusercontent.com/119150796/206412116-cd1a24ea-0ec9-4f46-8256-ec197365c5fa.png)
+![Food Calories](https://user-images.githubusercontent.com/119150796/206412127-307527ea-1605-413d-b4cb-10c60f79fa29.png)
+
+## Credits
+This project is the result of a team collaboration, and I would like to give credit to all the team members, including [Qonita Lutfia](https://github.com/qonitalutfia) and [Muhammad Yoga Zikri Saputra](https://github.com/Yoga157) for their contributions. To see all our activities from the beginning of the website development process, please visit our repository at [Capstone Project Repository](https://github.com/qonitalutfia/Capstone-Project).
+
