@@ -1,5 +1,5 @@
 <h1 align="center">Athletic League Website</h1>
-<p align="center"><img src="src/assets/img/logo.png" width="100px" height="100px"></p>
+<p align="center"><img src="https://github.com/fzn-dy/Athletic-League-Website/blob/main/client/src/assets/img/logo.png" width="100px" height="100px"></p>
 <p align="center"><img src="https://img.shields.io/badge/Build%20with-Node.js-61dbfb?style=popout&logo=node.js"></p>
 <p align="center"><img src="https://img.shields.io/badge/Build%20with-React%20JS-61dbfb?style=popout&logo=react"></p>
 
